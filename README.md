@@ -1,6 +1,4 @@
-# NNFL-ML-HelloWorld
-My first experience with machine learning as the course Neural Networks and Fuzzy Logic
-
+# NNFL
 Assingnment 1 includes solving simple problems:
 
 * Unsupervised Learning:
